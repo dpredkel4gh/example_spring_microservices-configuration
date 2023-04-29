@@ -1,0 +1,1 @@
+Repository with configuration files for project `example_spring_microservices`
